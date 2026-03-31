@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("8274594384:AAGz6SOh8-0_s-Jx2S-Pc_2psv1LrZzh798")
+BOT_TOKEN = "8274594384:AAGz6SOh8-0_s-Jx2S-Pc_2psv1LrZzh798"
 ADMIN_USER_ID = "Everborn"
 DATABASE_URL = "mongodb+srv://chachikechuche:chachikechuche@cluster0.dndnlu4.mongodb.net/?appName=Cluster0"
 WHITELISTED_ENV = "Sidhaa_bacha"
