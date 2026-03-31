@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8274594384:AAGz6SOh8-0_s-Jx2S-Pc_2psv1LrZzh798")
 ADMIN_USER_ID = os.getenv("ADMIN_USERNAME")
 DATABASE_URL = os.getenv("DATABASE_URL")
 COOKIES_CONTENT = os.getenv("COOKIES_CONTENT")
